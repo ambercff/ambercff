@@ -6,8 +6,6 @@
 </div>
 # 📊 GitHub Stats:
 <div align="center">
-<div>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambercff)](https://github.com/anuraghazra/github-readme-stats)
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambercff&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   <hr>  
